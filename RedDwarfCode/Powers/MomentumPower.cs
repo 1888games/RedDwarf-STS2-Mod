@@ -1,0 +1,29 @@
+﻿
+using BaseLib.Extensions;
+using MegaCrit.Sts2.Core.Commands;
+using MegaCrit.Sts2.Core.Entities.Creatures;
+using MegaCrit.Sts2.Core.Entities.Powers;
+using MegaCrit.Sts2.Core.GameActions.Multiplayer;
+using MegaCrit.Sts2.Core.Models;
+using MegaCrit.Sts2.Core.ValueProps;
+
+namespace RedDwarf.Code.Powers;
+
+public sealed class MomentumPower : RedDwarfPower
+{
+    public override PowerType Type => PowerType.Buff;
+
+    public override PowerStackType StackType => PowerStackType.Counter;
+
+
+    public override async Task AfterDamageGiven(PlayerChoiceContext choiceContext, Creature? target, DamageResult result, ValueProp props, Creature? dealer, CardModel? cardSource)
+    {
+        
+        if (result.UnblockedDamage > 0 && Amount > 0)
+        {
+            Flash();
+            await PowerCmd.Apply<ConfidencePower>(Owner, 1, Owner, null, false);
+        }
+    }
+
+}

@@ -1,0 +1,280 @@
+{
+  "REDDWARF-STRIKE_RED_DWARF.title": "Strike",
+  "REDDWARF-STRIKE_RED_DWARF.description": "[aqua][sine]Lister[/sine][/aqua]\nDeal {Damage:diff()} damage.",
+
+  "REDDWARF-SMEGHEAD.title": "Smeghead",
+  "REDDWARF-SMEGHEAD.description": "[aqua][sine]Lister[/sine][/aqua]\n[red]Insult[/red] an enemy.\nApply {CowedPower:diff()} [purple]Despair[/purple].\nApply {SmegPower:diff()} [gold]Smeg[/gold].",
+
+  "REDDWARF-STIFF_SOCKS.title": "Stiff Socks",
+  "REDDWARF-STIFF_SOCKS.description": "[aqua][sine]Lister[/sine][/aqua] whacks his rock solid socks with a hammer to soften them up.\nApply {SmegPower:diff()} [jitter][gold]Smeg[/gold][/jitter].",
+
+  "REDDWARF-CUT_TOENAILS.title": "Trim Your Toenails...",
+  "REDDWARF-CUT_TOENAILS.description": "[aqua][sine]Lister[/sine][/aqua] trims his toenails using his teeth.\nApply {SmegPower:diff()} [gold]Smeg[/gold].",
+
+  "REDDWARF-TAKING_THE_SMEG.title": "Taking The Smeg",
+  "REDDWARF-TAKING_THE_SMEG.description": "[aqua][sine]Lister[/sine][/aqua]\nRemove all [gold]Smeg[/gold].\nEnemy loses {SmegDamage:diff()} HP for each [gold]Smeg[/gold] removed.",
+
+  "REDDWARF-MUTTON_VINDALOO.title": "Caviar Vindaloo",
+  "REDDWARF-MUTTON_VINDALOO.description": "[aqua][sine]Lister[/sine][/aqua]\n.\nGain {SustenancePower:diff()} [orange]Sustenance[/orange].\nDraw 1 card.",
+
+  "REDDWARF-ROOF_ATTACK.title": "Roof Attack",
+  "REDDWARF-ROOF_ATTACK.description": "[aqua][sine]Lister[/sine][/aqua]\nDeal {Damage:diff()} damage.\n[red]Loot[/red] {ScrapPower:diff()} [aqua]Scrap[/aqua].",
+
+  "REDDWARF-MAROONED.title": "Marooned",
+  "REDDWARF-MAROONED.description": "[aqua][sine]Lister[/sine][/aqua]\nBurn all your [aqua]Scrap[/aqua].\nGain {energyPrefix:energyIcons(1)} for each [aqua]Scrap[/aqua].",
+
+  "REDDWARF-DOG_FOOD.title": "Dog Food",
+  "REDDWARF-DOG_FOOD.description": "[aqua][sine]Lister[/sine][/aqua]\nGain {SustenancePower:diff()} [orange]Sustenance[/orange].\nGain {energyPrefix:energyIcons(1)}.\nLose {Damage:diff()} [gold]HP[/gold].\nDraw {Cards:diff()} cards.",
+
+  "REDDWARF-CONFIDENCE_PARANOIA.title": "Confidence & Paranoia",
+  "REDDWARF-CONFIDENCE_PARANOIA.description": "[aqua][sine]Lister[/sine][/aqua]\nGain {ConfidencePower:diff()} [orange]Confidence[/orange].\nSuffer {ParanoiaPower:diff()} [red]Paranoia[/red].",
+
+  "REDDWARF-PARANOIA.title": "Paranoia",
+  "REDDWARF-PARANOIA.description": "[aqua][sine]Lister[/sine][/aqua]\nApply {ParanoiaPower:diff()} [red]Paranoia[/red].\nDraw 1 card.",
+
+  "REDDWARF-CONFIDENCE.title": "Confidence",
+  "REDDWARF-CONFIDENCE.description": "[aqua][sine]Lister[/sine][/aqua]\nGain {ConfidencePower:diff()} [orange]Confidence[/orange].",
+
+  "REDDWARF-TWAT_IT.title": "Twat It!",
+  "REDDWARF-TWAT_IT.description": "[aqua][sine]Lister[/sine][/aqua]\nDeal {Damage:diff()} damage.\nApply {SmegPower:diff()} [gold]Smeg[/gold].\nApply {CowedPower:diff()} [purple]Despair[/purple].",
+
+  "REDDWARF-STASIS_BOOTH.title": "Stasis Booth",
+  "REDDWARF-STASIS_BOOTH.description": "[aqua][sine]Lister[/sine][/aqua]\nEnd turn and choose {IfUpgraded:show:X+1|X} cards to retain.",
+  "REDDWARF-STASIS_BOOTH.selectionScreenPrompt": "Select cards to retain this turn.",
+
+  "REDDWARF-EVERYBODYS_DEAD.title": "Everybody's Dead, Dave",
+  "REDDWARF-EVERYBODYS_DEAD.description": "[aqua][sine]Lister[/sine][/aqua]\nEverybody is dead, everybody is dead, Dave.\nLeak {RadiationPower:diff()} [green]Radiation[/green].",
+
+  "REDDWARF-TOMATO_ALLERGY.title": "Ironing Sneezes",
+  "REDDWARF-TOMATO_ALLERGY.description": "[aqua][sine]Lister[/sine][/aqua]\nSneeze through a sieve and use it to steam iron.\nApply {SmegPower:diff()} [gold]Smeg[/gold] to all enemies",
+
+  "REDDWARF-GOT_ME_PLAN.title": "It's Me Plan",
+  "REDDWARF-GOT_ME_PLAN.description": "[aqua][sine]Lister[/sine][/aqua]\nPull up to {DrawPower:diff()} [aqua][sine]Lister[/sine][/aqua] cards into your hand from your draw pile.",
+
+
+  "REDDWARF-LUCK_VIRUS.title": "Luck Virus",
+  "REDDWARF-LUCK_VIRUS.description": "[aqua][sine]Lister[/sine][/aqua]\nGain {ConfidencePower:diff()} [orange]Confidence[/orange].\nLose {ConfidencePower:diff()} [orange]Confidence[/orange] at the end of your turn.",
+
+  "REDDWARF-SPANNERS.title": "Spanners",
+  "REDDWARF-SPANNERS.description": "[aqua][sine]Lister[/sine][/aqua]\nUse 1 [aqua]Scrap[/aqua] to form a makeshift shield.\nGain {Block:diff()} [gold]Block[/gold].",
+
+
+  "REDDWARF-MOLY_DEE.title": "Moly-D",
+  "REDDWARF-MOLY_DEE.description": "[aqua][sine]Lister[/sine][/aqua]\nDeal {Damage:diff()} [gold]unblockable[/gold] damage.",
+
+
+  "REDDWARF-GROINAL_EXPLODER.title": "Groinal Exploder",
+  "REDDWARF-GROINAL_EXPLODER.description": "[aqua][sine]Lister[/sine][/aqua]\nDeal {Damage:diff()} damage.\nIf the enemy intends to attack, deal damage twice.",
+
+
+  "REDDWARF-OMMMMM.title": "Ommmmm!",
+  "REDDWARF-OMMMMM.description": "[aqua][sine]Lister[/sine][/aqua]\nWhenever you deal unblocked attack damage, gain [orange]Confidence[/orange].",
+
+
+
+  "REDDWARF-DEFEND_RED_DWARF.title": "Defend",
+  "REDDWARF-DEFEND_RED_DWARF.description": "[blue][sine]Rimmer[/sine][/blue]\nGain {Block:diff()} [gold]Block[/gold].",
+
+  "REDDWARF-DISTENDED_RECTUM.title": "Distended Rectum",
+  "REDDWARF-DISTENDED_RECTUM.description": "[blue][sine]Rimmer[/sine][/blue]\n[red]Insult[/red] an enemy.\nApply {CowedPower:diff()} [purple]Despair[/purple].\nDraw 1 card.",
+
+  "REDDWARF-WELDING_MALLET.title": "Welding Mallet",
+  "REDDWARF-WELDING_MALLET.description": "[blue][sine]Rimmer[/sine][/blue]\nHave you ever been hit with a welding mallet?\nDeal {Damage:diff()} damage.",
+
+  "REDDWARF-CADMIUM_TWO.title": "Cadmium II",
+  "REDDWARF-CADMIUM_TWO.description": "[blue][sine]Rimmer[/sine][/blue] failed to fix the drive plate again...\nLeak {RadiationPower:diff()} [green]Radiation[/green].",
+
+  "REDDWARF-GARBAGE_POD.title": "Garbage Pod",
+  "REDDWARF-GARBAGE_POD.description": "[blue][sine]Rimmer[/sine][/blue]\nGain {ScrapPower:diff()} [aqua]Scrap[/aqua]",
+
+  "REDDWARF-FRIED_EGG.title": "Chilli Chutney Sandwich",
+  "REDDWARF-FRIED_EGG.description": "[blue][sine]Rimmer[/sine][/blue]\nTriple fried eggs with chilli and chutney.\nAt the start of your turn, gain {SustenancePower:diff()} [orange]Sustenance[/orange] and lose 1 [gold]HP[/gold].",
+
+  "REDDWARF-BAREFIST_FIGHTER.title": "Barefist Fighter",
+  "REDDWARF-BAREFIST_FIGHTER.description": "[blue][sine]Rimmer[/sine][/blue]\nDeal {Damage:diff()} damage.\nGain {ConfidencePower:diff()} [orange]Confidence[/orange].",
+
+  "REDDWARF-GIMBOID.title": "Gimboid",
+  "REDDWARF-GIMBOID.description": "[blue][sine]Rimmer[/sine][/blue]\n[red]Insult[/red] an enemy.\nApply {CowedPower:diff()} [purple]Despair[/purple].",
+
+  "REDDWARF-LEAFLET_CAMPAIGN.title": "Leaflet Campaign",
+  "REDDWARF-LEAFLET_CAMPAIGN.description": "[blue][sine]Rimmer[/sine][/blue]\nApply {CowedPower:diff()} [purple]Despair[/purple] to all enemies.",
+
+  "REDDWARF-HOLOGRAM.title": "Hologram",
+  "REDDWARF-HOLOGRAM.description": "[blue][sine]Rimmer[/sine][/blue]\nGain {Block:diff()} [gold]Block[/gold].\nPut a card from your discard pile into your hand.",
+  "REDDWARF-HOLOGRAM.selectionScreenPrompt": "Choose card to put into your hand.",
+
+  "REDDWARF-CHILLED_SANCERRE.title": "Chilled Sancerre",
+  "REDDWARF-CHILLED_SANCERRE.description": "[blue][sine]Rimmer[/sine][/blue]\nGain {Block:diff()} [gold]Block[/gold].\nGain {SustenancePower:diff()} [orange]Sustenance[/orange].",
+
+  "REDDWARF-HARD_LIGHT.title": "Hard Light",
+  "REDDWARF-HARD_LIGHT.description": "[blue][sine]Rimmer[/sine][/blue]\nGain {Block:diff()} [gold]Block[/gold].",
+
+  "REDDWARF-CAMPHOR_WOOD_CHEST.title": "Camphor Wood Chest",
+  "REDDWARF-CAMPHOR_WOOD_CHEST.description": "[blue][sine]Rimmer[/sine][/blue]\nPull up to {DrawPower:diff()} [blue][sine]Rimmer[/sine][/blue] cards into your hand from your draw pile.",
+
+  "REDDWARF-ACE_RIMMER.title": "Ace Rimmer",
+  "REDDWARF-ACE_RIMMER.description": "[blue][sine]Rimmer[/sine][/blue]\nAt the start of your turn, gain {ConfidencePower:diff()} [orange]Confidence[/orange].",
+
+  "REDDWARF-SEXUAL_MAGNETISM.title": "Sexual Magnetism",
+  "REDDWARF-SEXUAL_MAGNETISM.description": "[blue][sine]Rimmer[/sine][/blue]\nGain {ConfidencePower:diff()} [orange]Confidence[/orange].\nLose {ConfidencePower:diff()} [orange]Confidence[/orange] at the end of your turn.",
+
+  "REDDWARF-DIMENSION_JUMP.title": "Dimension Jump",
+  "REDDWARF-DIMENSION_JUMP.description": "[blue][sine]Rimmer[/sine][/blue]\nPay {Gold:diff()} [gold]Gold[/gold].\nSkip to the nearest parallel dimension.\nStart new (non-boss) combat.",
+
+  "REDDWARF-SPEAR.title": "Spear",
+  "REDDWARF-SPEAR.description": "[blue][sine]Rimmer[/sine][/blue]\nDeal {Damage:diff()} damage.",
+
+  "REDDWARF-BLACK_CARD.title": "Black Card",
+  "REDDWARF-BLACK_CARD.description": "[blue][sine]Rimmer[/sine][/blue]\nDeal {Damage:diff()} damage {IfUpgraded:show:to all enemies|to a random enemy} for each [blue][sine]Rimmer[/sine][/blue] card in your deck.",
+
+  "REDDWARF-HOLOWHIP.title": "Holowhip",
+  "REDDWARF-HOLOWHIP.description": "[blue][sine]Rimmer[/sine][/blue]\nRemove all block from an enemy.\nDeal {Damage:diff()} damage.",
+
+  "REDDWARF-FUTURE_ECHOES.title": "Future Echoes",
+  "REDDWARF-FUTURE_ECHOES.description": "[blue][sine]Rimmer[/sine][/blue]\nPlay the last card you played this combat again.\nIt costs zero {energyPrefix:energyIcons(1)}.",
+
+  "REDDWARF-RADIATION_LEAK.title": "Radiation Leak",
+  "REDDWARF-RADIATION_LEAK.description": "[blue][sine]Rimmer[/sine][/blue]\nAt the start of your turn, apply {RadiationPower:diff()} [green]Radiation[/green] to all enemies.",
+
+  "REDDWARF-DIURETIC_CAMELS.title": "Yellow Streak",
+  "REDDWARF-DIURETIC_CAMELS.description": "[blue][sine]Rimmer[/sine][/blue]\nAt the end of your turn, gain {Block:diff()} [gold]Block[/gold].",
+
+
+  "REDDWARF-CLITORIS.title": "C.L.I.T.O.R.I.S.",
+  "REDDWARF-CLITORIS.description": "[blue][sine]Rimmer[/sine][/blue]\nApply {WeakPower:diff()} [green]Weak[/green] to all enemies.",
+
+
+
+
+  "REDDWARF-TRIPLICATOR.title": "Triplicator",
+  "REDDWARF-TRIPLICATOR.description": "[purple][sine]Kryten[/sine][/purple]\nChoose a card from your draw pile, add a [green]High[/green] and [red]Low[/red] copy to your hand.\nDoes not work on Triplicator!",
+  "REDDWARF-TRIPLICATOR.selectionScreenPrompt": "Select a card to Triplicate...",
+
+  "REDDWARF-JUSTICE_FIELD.title": "Justice Field",
+  "REDDWARF-JUSTICE_FIELD.description": "[purple][sine]Kryten[/sine][/purple]\n[i]You are now entering the Justice Zone.[/i]\nGain {MirrorPower:diff()} [blue]Justice Field[/blue].",
+
+  "REDDWARF-SHOOTING_IRONS.title": "Shootin' Irons",
+  "REDDWARF-SHOOTING_IRONS.description": "[purple][sine]Kryten[/sine][/purple]\nFire a pair of pistols.\nDeal {Damage:diff()} damage twice.",
+
+
+  "REDDWARF-WASTE_DISPOSAL.title": "Waste Disposal",
+  "REDDWARF-WASTE_DISPOSAL.description": "[purple][sine]Kryten[/sine][/purple]\nLoad garbage cannon with\n1 [aqua]Scrap[/aqua].\nDeal {Damage:diff()} damage.",
+
+  "REDDWARF-GARBAGE_CANNON.title": "Garbage Cannon",
+  "REDDWARF-GARBAGE_CANNON.description": "[purple][sine]Kryten[/sine][/purple]\nLoad garbage cannon with\nall your [aqua]Scrap[/aqua].\nDeal {Damage:diff()} damage {IfUpgraded:show:to all enemies|to a random enemy} for each [aqua]Scrap[/aqua].",
+
+  "REDDWARF-RED_ALERT.title": "Red Alert",
+  "REDDWARF-RED_ALERT.description": "[purple][sine]Kryten[/sine][/purple]\nSir, are you absolutely sure, it does mean changing the bulb?\nGain {Block:diff()} [gold]Block[/gold].\nDiscard 1 card {IfUpgraded:show:of your choice|at random}.",
+
+  "REDDWARF-AUTO_REPAIR.title": "Auto Repair",
+  "REDDWARF-AUTO_REPAIR.description": "[purple][sine]Kryten[/sine][/purple]\nAt the start of each turn, gain [gold]HP[/gold].",
+
+
+  "REDDWARF-BATTERING_RAM.title": "Battering Ram",
+  "REDDWARF-BATTERING_RAM.description": "[purple][sine]Kryten[/sine][/purple]\nI'm fine thankyou, Susan!\nDeal {Damage:diff()} damage.\nLose {SelfDamage:diff()} [gold]HP[/gold].",
+
+  "REDDWARF-LEMONS.title": "Lemons",
+  "REDDWARF-LEMONS.description": "[purple][sine]Kryten[/sine][/purple]\nGain [blue]1[/blue] {energyPrefix:energyIcons(1)}.",
+
+  "REDDWARF-WASTE_COMPACTOR.title": "Waste Compactor",
+  "REDDWARF-WASTE_COMPACTOR.description": "[purple][sine]Kryten[/sine][/purple]\nExhaust your hand.\nFor each card exhausted, gain 1 [aqua]Scrap[/aqua] and draw 1 card.",
+
+  "REDDWARF-JUST_PROCESSING.title": "Just Processing...",
+  "REDDWARF-JUST_PROCESSING.description": "[purple][sine]Kryten[/sine][/purple]\nPull up to {DrawPower:diff()} [purple][sine]Kryten[/sine][/purple] cards into your hand from your draw pile.",
+
+  "REDDWARF-ITS_NOT_CHICKEN.title": "That's Not Chicken, Sirs",
+  "REDDWARF-ITS_NOT_CHICKEN.description": "[purple][sine]Kryten[/sine][/purple]\nIt's that man we found...\nApply {SmegPower:diff()} [gold]Smeg[/gold] to all enemies.\nGain {SustenancePower:diff()} [orange]Sustenance[/orange].\nGain {CowedPower:diff()} [purple]Despair[/purple].",
+
+
+  "REDDWARF-TEXAS_BOOK_DEPOSITORY.title": "Texas Book Depository",
+  "REDDWARF-TEXAS_BOOK_DEPOSITORY.description": "[purple][sine]Kryten[/sine][/purple]\nBeam into the 4th, 5th or 6th floor and deal {CowedPower:diff()}, {SmegPower:diff()} or {RadiationPower:diff()} damage.",
+
+  "REDDWARF-DOUBLE_POLAROID.title": "Double Polaroid",
+  "REDDWARF-DOUBLE_POLAROID.description": "[purple][sine]Kryten[/sine][/purple]\nGain {ConfidencePower:diff()} [orange]Confidence[/orange].\nApply {ParanoiaPower:diff()} [red]Paranoia[/red] to all enemies.",
+
+  "REDDWARF-MEDICOMP.title": "Medicomp",
+  "REDDWARF-MEDICOMP.description": "[purple][sine]Kryten[/sine][/purple]\nHeal {CowedPower:diff()} [gold]HP[/gold].",
+
+  "REDDWARF-QUEEN_VICTORIA.title": "Queen Victoria",
+  "REDDWARF-QUEEN_VICTORIA.description": "[purple][sine]Kryten[/sine][/purple]\nDeal {Damage:diff()} damage {Repeat:diff()} times.",
+
+  "REDDWARF-NANOBOTS.title": "Nanobots",
+  "REDDWARF-NANOBOTS.description": "[purple][sine]Kryten[/sine][/purple]\nDismantle and rebuild an enemy...but smaller.\nThey deal 30% less damage this combat.",
+
+  "REDDWARF-LIMPET_MINES.title": "Limpet Mines",
+  "REDDWARF-LIMPET_MINES.description": "[purple][sine]Kryten[/sine][/purple]\nDeal {Damage:diff()} damage.\nApply {CowedPower:diff()} [purple]Despair[/purple] to all enemies.",
+
+  "REDDWARF-SALVAGE.title": "Salvage",
+  "REDDWARF-SALVAGE.description": "[purple][sine]Kryten[/sine][/purple]\nTrade all your [aqua]Scrap[/aqua].\nGain {Gold:diff()} [gold]Gold[/gold] for each [aqua]Scrap[/aqua].",
+
+
+
+  "REDDWARF-DESPAIR_SQUID.title": "Despair Squid",
+  "REDDWARF-DESPAIR_SQUID.description": "[purple][sine]Kryten[/sine][/purple]\nEvery turn, apply {ClitorisPower:diff()} [green]Despair[/green] to all enemies.",
+
+
+
+
+  "REDDWARF-DEFENSIVE_SHIELDS.title": "Defensive Shields",
+  "REDDWARF-DEFENSIVE_SHIELDS.description": "[pink][sine]Cat[/sine][/pink]\nUse all [aqua]Scrap[/aqua] to form a makeshift shield.\nGain {Block:diff()} [gold]Block[/gold] for each [aqua]Scrap[/aqua].",
+
+  "REDDWARF-TROUT_CREME.title": "Trout à la Crème",
+  "REDDWARF-TROUT_CREME.description": "[pink][sine]Cat[/sine][/pink]\nGain {Block:diff()} [gold]Block[/gold].\nGain {SustenancePower:diff()} [orange]Sustenance[/orange].",
+
+  "REDDWARF-WHITE_HOLE.title": "White Hole",
+  "REDDWARF-WHITE_HOLE.description": "[pink][sine]Cat[/sine][/pink]\nPay {Gold:diff()} [gold]Gold[/gold]. End your turn AND skip enemy turn.\nIt's a white hole. What is it?\nOnly joking!",
+
+  "REDDWARF-CONSERVE_YOUR_ENERGY.title": "Conserve Your Energy",
+  "REDDWARF-CONSERVE_YOUR_ENERGY.description": "[pink][sine]Cat[/sine][/pink]\nEnd turn and gain [blue]{IfUpgraded:show:X+1|X}[/blue] {energyPrefix:energyIcons(1)} next turn.",
+
+  "REDDWARF-SCOUTER.title": "Scouter",
+  "REDDWARF-SCOUTER.description": "[pink][sine]Cat[/sine][/pink]\nEngines stopped...scouter launched.\nPick a card from your draw pile or discard pile and add it to your hand.",
+  "REDDWARF-SCOUTER.selectionScreenPrompt": "Select a card to add to your hand...",
+
+  "REDDWARF-POLYMORPH_ONE.title": "Polymorph I",
+  "REDDWARF-POLYMORPH_ONE.description": "[pink][sine]Cat[/sine][/pink]\nTurn this card into a random uncommon or rare card from the entire game. It costs 0 this turn.",
+
+  "REDDWARF-POLYMORPH_TWO.title": "Polymorph II",
+  "REDDWARF-POLYMORPH_TWO.description": "[pink][sine]Cat[/sine][/pink]\nDeal {Damage:diff()} damage {Repeat:diff()} times.\nIf the enemy intends to attack, copy their intent to this card.",
+
+  "REDDWARF-SCRATCH.title": "Scratch",
+  "REDDWARF-SCRATCH.description": "[pink][sine]Cat[/sine][/pink]\nDeal {Damage:diff()} damage {Repeat:diff()} times.",
+
+  "REDDWARF-RIVIERA_KID.title": "The Riviera Kid",
+  "REDDWARF-RIVIERA_KID.description": "[pink][sine]Cat[/sine][/pink]\nIf the enemy intends to attack, deal {Damage:diff()} damage and draw {DrawPower:diff()} cards.\n{IfUpgraded:show:Gain {ConfidencePower:diff()} [orange]Confidence[/orange].|}",
+
+  "REDDWARF-SUPERIOR_REFLEXES.title": "Superior Reflexes",
+  "REDDWARF-SUPERIOR_REFLEXES.description": "[pink][sine]Cat[/sine][/pink]\nGain {DexterityPower:diff()} [green]Dexterity[/green].",
+
+  "REDDWARF-NASAL_INTUITION.title": "Nasal Intuition",
+  "REDDWARF-NASAL_INTUITION.description": "[pink][sine]Cat[/sine][/pink]\nThese nostrils never lie.\nGain {DexterityPower:diff()} [green]Dexterity[/green].",
+
+  "REDDWARF-CATNAP.title": "Cat Nap",
+  "REDDWARF-CATNAP.description": "[pink][sine]Cat[/sine][/pink]\nEnd turn and draw {IfUpgraded:show:X+1|X} cards next turn.",
+
+  "REDDWARF-THIS_IS_MINE.title": "This Is Mine",
+  "REDDWARF-THIS_IS_MINE.description": "[pink][sine]Cat[/sine][/pink]\nPull up to {DrawPower:diff()} [pink][sine]Cat[/sine][/pink] cards into your hand from your draw pile.",
+
+  "REDDWARF-BAZOOKOID.title": "Bazookoid",
+  "REDDWARF-BAZOOKOID.description": "[pink][sine]Cat[/sine][/pink]\nDeal {Damage:diff()} damage.\nDeal {CowedPower:diff()} damage to other enemies.",
+
+  "REDDWARF-GRASSY_KNOLL.title": "The Grassy Knoll",
+  "REDDWARF-GRASSY_KNOLL.description": "[pink][sine]Cat[/sine][/pink]\nDeal {Damage:diff()} damage.\nIf the enemy does NOT die, gain {energyPrefix:energyIcons(1)}.",
+
+  "REDDWARF-MEOW_MISSILES.title": "Meow Missiles",
+  "REDDWARF-MEOW_MISSILES.description": "[pink][sine]Cat[/sine][/pink]\nDeal {Damage:diff()} damage to all enemies for each [pink][sine]Cat[/sine][/pink] card in your hand.",
+
+  "REDDWARF-MAKE_MYSELF_BIG.title": "Make Myself Look Big",
+  "REDDWARF-MAKE_MYSELF_BIG.description": "[pink][sine]Cat[/sine][/pink]\nWhenever you use scrap, gain [green]Dexterity[/green].",
+
+
+  "REDDWARF-DWAYNE_DIBLEY.title": "Dwayne Dibley",
+  "REDDWARF-DWAYNE_DIBLEY.description": "[pink][sine]Cat[/sine][/pink]\nDeal {Damage:diff()} damage to all enemies.\nLose all [orange]Confidence[/orange].",
+
+  "REDDWARF-JOY_SQUID.title": "Joy Squid",
+  "REDDWARF-JOY_SQUID.description": "[pink][sine]Cat[/sine][/pink]\nDraw {CowedPower:diff()} cards.\nGain {CowedPower:diff()} {energyPrefix:energyIcons(1)}.\nEvery turn, apply {SelfEsteemPower:diff()} [orange]Confidence[/orange] to all enemies."
+
+
+
+
+}

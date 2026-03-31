@@ -1,0 +1,21 @@
+{
+
+  "REDDWARF-RED_DWARF.aromaPrinciple": "Lore",
+  "REDDWARF-RED_DWARF.banter.alive.endTurnPing": "Co-op hurry up end turn ping message",
+  "REDDWARF-RED_DWARF.banter.dead.endTurnPing": "...",
+  "REDDWARF-RED_DWARF.cardsModifierDescription": "__ cards will now appear in rewards and shops.",
+  "REDDWARF-RED_DWARF.cardsModifierTitle": "__ Cards",
+  "REDDWARF-RED_DWARF.description": "Character Selection\nScreen Description",
+  "REDDWARF-RED_DWARF.eventDeathPrevention": "Co-op survival line",
+  "REDDWARF-RED_DWARF.goldMonologue": "Line spoken when obtaining a large amount of gold",
+  "REDDWARF-RED_DWARF.possessiveAdjective": "his/her/its",
+  "REDDWARF-RED_DWARF.pronounObject": "him/her/it",
+  "REDDWARF-RED_DWARF.pronounPossessive": "his/hers/its",
+  "REDDWARF-RED_DWARF.pronounSubject": "he/she/it",
+  "REDDWARF-RED_DWARF.title": "The RedDwarf",
+  "REDDWARF-RED_DWARF.titleObject": "The RedDwarf",
+  "THE_ARCHITECT.talk.REDDWARF-RED_DWARF.0-0r.char": "I am angry at the architect",
+  "THE_ARCHITECT.talk.REDDWARF-RED_DWARF.0-0r.next": "Continue",
+  "THE_ARCHITECT.talk.REDDWARF-RED_DWARF.0-1r.ancient": "You die",
+  "THE_ARCHITECT.talk.REDDWARF-RED_DWARF.0-attack": "Both"
+}

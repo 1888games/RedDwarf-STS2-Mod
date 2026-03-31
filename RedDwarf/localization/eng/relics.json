@@ -1,0 +1,10 @@
+{
+  "REDDWARF-NOVA_FIVE.description": "At the start of each combat, gain 2 [aqua]Scrap[/aqua].",
+  "REDDWARF-NOVA_FIVE.flavor": "Part of the Nova fleet, a Space Corps starship once powered by a Duality Jump Drive and operating in Deep Space.",
+  "REDDWARF-NOVA_FIVE.title": "Nova 5",
+
+
+  "REDDWARF-SS_TROJAN.description": "Replaces [gold]Pure Water[/gold]. At the start of each turn, gain 1 [aqua]Scrap[/aqua].",
+  "REDDWARF-SS_TROJAN.flavor": "S.S. Trojan was a derelict Quantum Twister class starship used by the Space Corps Infinity Fleet.",
+  "REDDWARF-SS_TROJAN.title": "S.S. Trojan"
+}

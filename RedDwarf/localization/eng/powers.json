@@ -1,0 +1,114 @@
+{
+  "REDDWARF-COWED_POWER.title": "Despair",
+  "REDDWARF-COWED_POWER.description": "Damage is increased by percentage equal to [purple]Despair[/purple]. Reduces by 5 when triggered and by 25% at end of turn.",
+  "REDDWARF-COWED_POWER.smartDescription": "Damage is increased by percentage equal to [purple]Despair[/purple]. Reduces by 5 when triggered and by 25% at end of turn.",
+
+
+  "REDDWARF-SMEG_POWER.title": "Smeg",
+  "REDDWARF-SMEG_POWER.description": "Enemy damage is halved, reduce [gold]Smeg[/gold] by 1.",
+  "REDDWARF-SMEG_POWER.smartDescription": "Enemy damage is halved, reduce [gold]Smeg[/gold] by 1.",
+
+
+  "REDDWARF-RIMMER_POWER.title": "Rimmer",
+  "REDDWARF-RIMMER_POWER.description": "This card belongs to Arnold Rimmer's set.",
+  "REDDWARF-RIMMER_POWER.smartDescription": "This card belongs to Rimmer's set.",
+
+  "REDDWARF-LISTER_POWER.title": "Lister",
+  "REDDWARF-LISTER_POWER.description": "This card belongs to Dave Lister's set.",
+  "REDDWARF-LISTER_POWER.smartDescription": "This card belongs to Lister's set.",
+
+  "REDDWARF-CAT_POWER.title": "The Cat",
+  "REDDWARF-CAT_POWER.description": "This card belongs to The Cat's set.",
+  "REDDWARF-CAT_POWER.smartDescription": "This card belongs to The Cats set.",
+
+  "REDDWARF-KRYTEN_POWER.title": "Kryten",
+  "REDDWARF-KRYTEN_POWER.description": "This card belongs to Kryten 2X4B-523P's set.",
+  "REDDWARF-KRYTEN_POWER.smartDescription": "This card belongs to Kryten's set.",
+
+  "REDDWARF-KOCHANSKI_POWER.title": "Kochanski",
+  "REDDWARF-KOCHANSKI_POWER.description": "This card belongs to Christine Kochanski's set.",
+  "REDDWARF-KOCHANSKI_POWER.smartDescription": "This card belongs to Kochanski's set.",
+
+  "REDDWARF-MIRROR_POWER.title": "Justice Field",
+  "REDDWARF-MIRROR_POWER.description": "Damage is inflicted on the aggressor instead. Reduce [blue]Justice Field[/blue] by 1.",
+  "REDDWARF-MIRROR_POWER.smartDescription": "Damage is inflicted on the aggressor instead. Reduce [blue]Justice Field[/blue] by 1.",
+
+  "REDDWARF-INSULT_POWER.title": "Insult",
+  "REDDWARF-INSULT_POWER.description": "Insults cause an enemy to [green]Despair[/green].",
+  "REDDWARF-INSULT_POWER.smartDescription": "Insults cause an enemy to [green]Despair[/green].",
+
+  "REDDWARF-DISGUST_POWER.title": "Disgust",
+  "REDDWARF-DISGUST_POWER.description": "Disgusting acts or objects cause an enemy to gain [gold]Smeg[/gold].",
+  "REDDWARF-DISGUST_POWER.smartDescription": "Disgusting acts or objects cause an enemy to gain [gold]Smeg[/gold].",
+
+
+  "REDDWARF-SUSTENANCE_POWER.title": "Sustenance",
+  "REDDWARF-SUSTENANCE_POWER.description": "Whenever you gain 10 [orange]Sustenance[/orange], gain [blue]2[/blue] {energyPrefix:energyIcons(1)}.",
+  "REDDWARF-SUSTENANCE_POWER.smartDescription": "Whenever you gain 10 [orange]Sustenance[/orange], gain [blue]2[/blue] {energyPrefix:energyIcons(1)}.",
+
+  "REDDWARF-RADIATION_POWER.title": "Radiation",
+  "REDDWARF-RADIATION_POWER.description": "Enemies receive damage equal to their [green]Radiation[/green] exposure at the start of their turn. Radiation halves each turn.",
+  "REDDWARF-RADIATION_POWER.smartDescription": "Enemies receive damage equal to their [green]Radiation[/green] exposure at the start of their turn. Radiation halves each turn.",
+
+  "REDDWARF-SCRAP_POWER.title": "Scrap",
+  "REDDWARF-SCRAP_POWER.description": "Can be exchanged via specific cards or powers for bonuses including but not limited to {energyPrefix:energyIcons(1)}, [blue]Block[/blue], [gold]Gold[/gold] and attack damage.",
+  "REDDWARF-SCRAP_POWER.smartDescription": "Can be exchanged via specific cards or powers for bonuses including but not limited to {energyPrefix:energyIcons(1)}, [blue]Block[/blue], [gold]Gold[/gold] and attack damage.",
+
+  "REDDWARF-LOOT_POWER.title": "Loot",
+  "REDDWARF-LOOT_POWER.description": "[red]Loot[/red] enemies in order to gain [aqua]Scrap[/aqua].",
+  "REDDWARF-LOOT_POWER.smartDescription": "[red]Loot[/red] enemies in order to gain [aqua]Scrap[/aqua].",
+
+  "REDDWARF-AUTO_REPAIR_POWER.title": "Auto Repair",
+  "REDDWARF-AUTO_REPAIR_POWER.description": "Restores [gold]HP[/gold] every turn",
+  "REDDWARF-AUTO_REPAIR_POWER.smartDescription": "Restores [gold]HP[/gold] every turn",
+
+  "REDDWARF-BLOCKED_ARTERIES_POWER.title": "Blocked Arteries",
+  "REDDWARF-BLOCKED_ARTERIES_POWER.description": "Lose [gold]HP[/gold] every turn",
+  "REDDWARF-BLOCKED_ARTERIES_POWER.smartDescription": "Lose [gold]HP[/gold] every turn",
+
+  "REDDWARF-REGULAR_MEAL_POWER.title": "Regular Meal",
+  "REDDWARF-REGULAR_MEAL_POWER.description": "Gain [orange]Sustenance[/orange] every turn",
+  "REDDWARF-REGULAR_MEAL_POWER.smartDescription": "Gain [orange]Sustenance[/orange] every turn",
+
+
+  "REDDWARF-CONFIDENCE_POWER.description": "Attacks deal 1 extra damage for each [purple]Confidence[/purple]. Positive [purple]Confidence[/purple] is lost when unblocked damage is taken.",
+  "REDDWARF-CONFIDENCE_POWER.smartDescription": "Attacks deal 1 extra damage for each [purple]Confidence[/purple]. Positive [purple]Confidence[/purple] is lost when unblocked damage is taken.",
+  "REDDWARF-CONFIDENCE_POWER.title": "Confidence",
+
+
+  "REDDWARF-PARANOIA_POWER.description": "At the end of your turn, reduce [purple]Confidence[/purple] by 1. Removed for player when [purple]Confidence[/purple] is zero, for enemies when unblocked damage is dealt.",
+  "REDDWARF-PARANOIA_POWER.smartDescription": "At the end of your turn, reduce [purple]Confidence[/purple] by 1. Removed for player when [purple]Confidence[/purple] is zero, for enemies when unblocked damage is dealt.",
+  "REDDWARF-PARANOIA_POWER.title": "Paranoia",
+
+
+  "REDDWARF-DRAW_POWER.title": "Draw Cards",
+  "REDDWARF-DRAW_POWER.description": "Immediately draw X cards.",
+  "REDDWARF-DRAW_POWER.smartDescription": "Immediately draw X cards.",
+
+
+  "REDDWARF-SELF_ESTEEM_POWER.description": "At the start of your turn, gain [purple]Confidence[/purple].",
+  "REDDWARF-SELF_ESTEEM_POWER.smartDescription": "At the start of your turn, gain [purple]Confidence[/purple].",
+  "REDDWARF-SELF_ESTEEM_POWER.title": "Self Esteem",
+
+  "REDDWARF-MAKE_MYSELF_BIG_POWER.description": "Whenever scrap is spent, gain [green]Dexterity[/green].",
+  "REDDWARF-MAKE_MYSELF_BIG_POWER.smartDescription": "Whenever scrap is spent, gain [green]Dexterity[/green].",
+  "REDDWARF-MAKE_MYSELF_BIG_POWER.title": "Make Myself Look Big",
+
+  "REDDWARF-RADIATION_LEAK_POWER.description": "At the start of your turn, apply [green]Radiation[/green] to all enemies.",
+  "REDDWARF-RADIATION_LEAK_POWER.smartDescription": "At the start of your turn, apply [green]Radiation[/green] to all enemies.",
+  "REDDWARF-RADIATION_LEAK_POWER.title": "Radiation Leak",
+
+  "REDDWARF-MOMENTUM_POWER.description": "Every time you deal unblocked damage, gain [purple]Confidence[/purple].",
+  "REDDWARF-MOMENTUM_POWER.smartDescription": "Every time you deal unblocked damage, gain [purple]Confidence[/purple].",
+  "REDDWARF-MOMENTUM_POWER.title": "Meditation",
+
+  "REDDWARF-COWARDICE_POWER.description": "At the start of your turn, gain [gold]Block[/gold]",
+  "REDDWARF-COWARDICE_POWER.smartDescription": "At the start of your turn, gain [gold]Block[/gold].",
+  "REDDWARF-COWARDICE_POWER.title": "Cowardice",
+
+  "REDDWARF-CLITORIS_POWER.description": "At the start of your turn, gain [green]Despair[/green]",
+  "REDDWARF-CLITORIS_POWER.smartDescription": "At the start of your turn, gain [green]Despair[/green]",
+  "REDDWARF-CLITORIS_POWER.title": "C.L.I.T.O.R.I.S."
+
+
+}

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11612.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedDwarf", "RedDwarf.csproj", "{6EAA114A-66EC-CC59-F9E8-349A51511BDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sts2", "..\..\STS2\sts2.csproj", "{D4DF170A-0223-B536-091B-DD8D548F9824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ExportDebug|Any CPU = ExportDebug|Any CPU
+		ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EAA114A-66EC-CC59-F9E8-349A51511BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EAA114A-66EC-CC59-F9E8-349A51511BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EAA114A-66EC-CC59-F9E8-349A51511BDC}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{6EAA114A-66EC-CC59-F9E8-349A51511BDC}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{6EAA114A-66EC-CC59-F9E8-349A51511BDC}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{6EAA114A-66EC-CC59-F9E8-349A51511BDC}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+		{D4DF170A-0223-B536-091B-DD8D548F9824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DF170A-0223-B536-091B-DD8D548F9824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DF170A-0223-B536-091B-DD8D548F9824}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{D4DF170A-0223-B536-091B-DD8D548F9824}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{D4DF170A-0223-B536-091B-DD8D548F9824}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{D4DF170A-0223-B536-091B-DD8D548F9824}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EC1DCB1-33B8-410A-A849-DDE57B5B91F6}
+	EndGlobalSection
+EndGlobal

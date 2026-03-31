@@ -1,0 +1,18 @@
+[gd_scene load_steps=2 format=3 uid="uid://ckyw50b5ltwos"]
+
+[ext_resource type="Texture2D" uid="uid://ljck0f716b8a" path="res://RedDwarf/images/charui/character_icon.png" id="1_bf6iy"]
+
+[node name="WatcherIcon" type="TextureRect"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 5.0
+offset_top = 3.0
+offset_right = 5.0
+offset_bottom = -2.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+texture = ExtResource("1_bf6iy")
+expand_mode = 1
+stretch_mode = 5
