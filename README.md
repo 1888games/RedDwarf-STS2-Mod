@@ -1,3 +1,8 @@
+If you want to build it yourself, edit RedDwarf.csproj to point at your Megadot and STS2 installations.
+https://megadot.megacrit.com/
+
+-------------------------------------------------------------------
+
 Note: Currently works with the PUBLIC BETA branch only
 
 Adds a new playable character to the game, based on the cult British sci-fi sitcom Red Dwarf. Featuring a unique mini card set for each of the four main characters, Lister, Rimmer, Cat and Kryten, with new card mechanics based on their personality traits and classic quotes & events from the show.
